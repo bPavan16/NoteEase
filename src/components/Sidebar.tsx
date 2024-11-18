@@ -74,7 +74,7 @@ const Sidebar: React.FC<SidebarProps> = ({
   return (
     <div className="flex flex-col p-5 bg-gray-900 h-full w-[400px]">
       <div className="flex justify-between items-center mb-4">
-        <h1 className="text-4xl font-bold text-white">NotEase</h1>
+        <h1 className="text-4xl font-bold text-white">NoteEase</h1>
 
       </div>
       <div className="flex gap-3 items-center mb-4">
